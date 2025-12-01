@@ -1,3 +1,4 @@
-*.tf*
-.terraform*
-Dockerfile
+*.tfstate
+*.tfstate.backup
+.terraform/
+*.tfvars
